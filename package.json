@@ -1,7 +1,7 @@
 {
   "name": "middleware-http-errors",
   "private": false,
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Middleware HTTP Error for http-errors library",
   "author": "Hayden Smith <hayden@bitflip.com.au> (http://bitflip.com.au)",
   "license": "ISC",
